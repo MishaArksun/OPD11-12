@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPD11", "OPD11\OPD11.csproj", "{5169D207-39F6-4A35-B874-016910100A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPD11Tests", "OPD11Tests\OPD11Tests.csproj", "{5CC0A363-2531-4E6A-9502-B510FA11D89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5169D207-39F6-4A35-B874-016910100A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5169D207-39F6-4A35-B874-016910100A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5169D207-39F6-4A35-B874-016910100A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5169D207-39F6-4A35-B874-016910100A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC0A363-2531-4E6A-9502-B510FA11D89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC0A363-2531-4E6A-9502-B510FA11D89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC0A363-2531-4E6A-9502-B510FA11D89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC0A363-2531-4E6A-9502-B510FA11D89F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E9055B-57C5-4E10-914C-8B93CA2DA8BE}
+	EndGlobalSection
+EndGlobal
